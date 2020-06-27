@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-A rock, paper, scissors text based game in Python.
+This is a rock, paper, scissors text based game in Python.
